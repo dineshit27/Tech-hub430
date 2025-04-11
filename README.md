@@ -23,12 +23,6 @@ Welcome to **Tech Hub430**, a modern and intuitive e-commerce platform tailored 
 
 ---
 
-## 🗂️ Folder Structure
-
-
-
----
-
 ## 🧪 Upcoming Features
 
 - 🧾 Product Details Page  
@@ -39,17 +33,10 @@ Welcome to **Tech Hub430**, a modern and intuitive e-commerce platform tailored 
 
 ---
 
-## 🔗 Live Preview
-
-> [🌍 View Demo](#) *(Replace with your live link)*  
-> Experience the interface firsthand.
-
----
-
 ## 👨‍💻 Developer
 
 Made with ❤️ by **Dinesh M**  
-📛 [JDMStudio430](https://github.com/yourgithubusername)
+📛 [view profile](https://github.com/dineshit27)
 
 ---
 
