@@ -2,6 +2,13 @@
 
 Welcome to **Tech Hub430**, a modern and intuitive e-commerce platform tailored for tech enthusiasts. This responsive website merges sleek design with interactive UI elements, creating a premium online shopping experience for gadgets and technology products.
 
+[![Demo](https://img.shields.io/badge/demo-Experience%20Our%20Work-brightgreen)](https://tech-hub430.netlify.app/)
+
+
+![GitHub stars](https://img.shields.io/github/stars/dineshit27/Tech-Hub430?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dineshit27/Tech-Hub430?style=social)
+![License](https://img.shields.io/github/license/dineshit27/Tech-Hub430style=social)
+
 ---
 
 ## 🧩 Built With
