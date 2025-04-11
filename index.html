@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Hub430 | Luxury Tech & Gadgets</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Preloader -->
+    <div class="preloader">
+        <div class="loader">
+            <div class="loader-square"></div>
+            <div class="loader-square"></div>
+            <div class="loader-square"></div>
+            <div class="loader-square"></div>
+            <div class="loader-square"></div>
+            <div class="loader-square"></div>
+            <div class="loader-square"></div>
+        </div>
+    </div>
+
+    <nav class="navbar">
+        <div class="container">
+            <a href="#" class="logo">Tech<span>Hub430</span></a>
+            
+            <!-- Moved these links to the left of the icons -->
+            <div class="nav-links">
+                <a href="#home">Home</a>
+                <a href="#products">Products</a>
+                <a href="#features">Features</a>
+                <a href="#testimonials">Testimonials</a>
+                <a href="#contact">Contact</a>
+            </div>
+            
+            <!-- Right-aligned icons -->
+            <div class="nav-icons">
+                <a href="#" class="search-btn"><i class="fas fa-search"></i></a>
+                <a href="#" class="cart-btn"><i class="fas fa-shopping-bag"></i><span class="cart-count">0</span></a>
+                <a href="#" class="menu-btn"><i class="fas fa-bars"></i></a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Mobile Menu -->
+<div class="mobile-menu">
+    <div class="mobile-menu-container">
+        <a href="#home">Home</a>
+        <a href="#products">Products</a>
+        <a href="#features">Features</a>
+        <a href="#testimonials">Testimonials</a>
+        <a href="#contact">Contact</a>
+        <div class="social-links">
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+        </div>
+    </div>
+</div>
+
+<!-- Add this overlay element -->
+<div class="mobile-menu-overlay"></div>
+
+    <!-- Hero Section -->
+<section class="hero" id="home">
+    <div class="hero-overlay"></div>
+    <div class="container">
+        <div class="hero-content">
+            <h1>Elevate Your <span>Tech Experience</span></h1>
+            <p>Discover the finest selection of cutting-edge gadgets and luxury tech accessories designed to elevate your lifestyle. From sleek smart devices to premium gear, explore innovation and sophistication like never before.</p>
+            <a href="#products" class="btn btn-primary">Explore Now</a>
+        </div>
+    </div>
+</section>
+
+    <!-- Products Section -->
+    <section class="products" id="products">
+        <div class="container">
+            <div class="section-header">
+                <h2>Our <span>Collections</span></h2>
+                <p>Curated selection of premium technology</p>
+            </div>
+            <div class="product-categories">
+                <button class="category-btn active" data-category="all">All Products</button>
+                <button class="category-btn" data-category="wearables">Wearables</button>
+                <button class="category-btn" data-category="audio">Audio</button>
+                <button class="category-btn" data-category="smart-home">Smart Home</button>
+                <button class="category-btn" data-category="accessories">Accessories</button>
+            </div>
+            <div class="product-grid">
+                <!-- Products will be loaded via JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features" id="features">
+        <div class="container">
+            <div class="section-header">
+                <h2>Why Choose <span>TechHub430</span></h2>
+                <p>Experience the difference of premium technology</p>
+            </div>
+            <div class="feature-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-gem"></i>
+                    </div>
+                    <h3>Premium Quality</h3>
+                    <p>Only the finest materials and cutting-edge technology in every product.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <h3>Extended Warranty</h3>
+                    <p>2-year warranty on all products for your peace of mind.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-truck"></i>
+                    </div>
+                    <h3>Free Shipping</h3>
+                    <p>Complimentary worldwide express shipping on all orders.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-headset"></i>
+                    </div>
+                    <h3>24/7 Support</h3>
+                    <p>Our tech experts are available around the clock to assist you.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials" id="testimonials">
+        <div class="container">
+            <div class="section-header">
+                <h2>What Our <span>Clients Say</span></h2>
+                <p>Hear from our satisfied customers</p>
+            </div>
+            <div class="testimonial-slider">
+                <div class="testimonial-slide">
+                    <div class="testimonial-content">
+                        <div class="rating">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <p>"The quality of these products is unmatched. TechHub430 has become my go-to for all my tech needs."</p>
+                        <div class="client-info">
+                            <div>
+                                <h4>Michael Johnson</h4>
+                                <span>Tech Entrepreneur</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- More testimonials would be added here -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Newsletter Section -->
+    <section class="newsletter">
+        <div class="container">
+            <div class="newsletter-content">
+                <h2>Stay Updated</h2>
+                <p>Subscribe to our newsletter for exclusive offers and product launches</p>
+                <form class="newsletter-form">
+                    <input type="email" placeholder="Your email address" required>
+                    <button type="submit" class="btn btn-primary">Subscribe</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer" id="contact">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <h3>TechHub430</h3>
+                    <p>Redefining luxury in technology. We bring you the finest gadgets and accessories for the modern lifestyle.</p>
+                    <div class="social-links">
+                        <a href="https://www.instagram.com/_dinx_pvt_430/#"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/m-dinesh-d30/?originalSubdomain=in"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://github.com/dineshit27"><i class="fab fa-github"></i></a>
+                        <a href="mailto:m.dinesh.it27@gmail.com"><i class="fab fa-message"></i></a>
+                    </div>
+                </div>
+                <div class="footer-col">
+                    <h3>Quick Links</h3>
+                    <a href="#home">Home</a>
+                    <a href="#products">Products</a>
+                    <a href="#features">Features</a>
+                    <a href="#testimonials">Testimonials</a>
+                    <a href="#contact">Contact</a>
+                </div>
+                <div class="footer-col">
+                    <h3>Support</h3>
+                    <a href="#">FAQ</a>
+                    <a href="#">Shipping Policy</a>
+                    <a href="#">Return Policy</a>
+                    <a href="#">Privacy Policy</a>
+                    <a href="#">Terms of Service</a>
+                </div>
+                <div class="footer-col">
+                    <h3>Contact Us</h3>
+                    <p><i class="fas fa-map-marker-alt"></i> 430 Tech Avenue, Chennai, Tamilnadu, </p>
+                    <p><i class="fas fa-phone"></i> +91 8122129450</p>
+                    <p><i class="fas fa-envelope"></i> m.dinesh.it27@gmail.com</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 TechHub430. All rights reserved.</p>
+                <div class="payment-methods">
+                    <i class="fab fa-cc-visa"></i>
+                    <i class="fab fa-cc-mastercard"></i>
+                    <i class="fab fa-cc-amex"></i>
+                    <i class="fab fa-cc-paypal"></i>
+                    <i class="fab fa-bitcoin"></i>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Shopping Cart Sidebar -->
+    <div class="cart-sidebar">
+        <div class="cart-header">
+            <h3>Your Cart</h3>
+            <button class="close-cart"><i class="fas fa-times"></i></button>
+        </div>
+        <div class="cart-items">
+            <!-- Cart items will be loaded here -->
+        </div>
+        <div class="cart-footer">
+            <div class="cart-total">
+                <span>Total:</span>
+                <span class="total-price">$0.00</span>
+            </div>
+            <button class="btn btn-primary checkout-btn">Proceed to Checkout</button>
+        </div>
+    </div>
+
+    <!-- Search Modal -->
+    <div class="search-modal">
+        <div class="search-container">
+            <button class="close-search"><i class="fas fa-times"></i></button>
+            <h3>Search Products</h3>
+            <form class="search-form">
+                <input type="text" placeholder="What are you looking for?">
+                <button type="submit"><i class="fas fa-search"></i></button>
+            </form>
+            <div class="search-results">
+                <!-- Search results will appear here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
