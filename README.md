@@ -5,9 +5,9 @@ Welcome to **Tech Hub430**, a modern and intuitive e-commerce platform tailored 
 [![Demo](https://img.shields.io/badge/demo-Experience%20Our%20Work-brightgreen)](https://tech-hub430.netlify.app/)
 
 
-![GitHub stars](https://img.shields.io/github/stars/dineshit27/Tech-Hub430?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dineshit27/Tech-Hub430?style=social)
-![License](https://img.shields.io/github/license/dineshit27/Tech-Hub430style=social)
+![GitHub stars](https://img.shields.io/github/stars/dineshit27/TechnoHacks-Tech-Hub430?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dineshit27/TechnoHacks-Tech-Hub430?style=social)
+![License](https://img.shields.io/github/license/dineshit27/TechnoHacks-Tech-Hub430style=social)
 
 ---
 
