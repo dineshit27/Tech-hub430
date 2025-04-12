@@ -1,4 +1,4 @@
-# ⚡ Tech Hub430 — Elevating Tech Shopping Experience
+# ⚡ Tech Hub430 — Ecommerce Website
 
 I have successfully completed my **TechnoHacks EduTech Official** Web Design & Development Internship in the month of April'25. Thanks for TechnoHacks EduTech Official For giving Me the opportunity.
 <br>
